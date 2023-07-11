@@ -21,7 +21,7 @@
     ],
     "EthicApprovals": "APAFIS#4688-2016032514131943, institutional ethics commitee C2EA-42",
     "ReferenceAndLinks": "doi:10.1038/s41598-022-08713-z",
-    "DatasetDOI": "doi:10.18112/openneuro.ds004632.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004632.v1.0.1",
     "GeneratedBy": [
         {
             "Name": "FSL ; ANTs ",
