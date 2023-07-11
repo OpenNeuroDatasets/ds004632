@@ -30,5 +30,6 @@
     ],
     "EthicsApprovals": [
         "Agreement number APAFIS#4688-2016032514131943 from local committee CELYNE-CNREEA (C2EA-42)"
-    ]
+    ],
+    "HowToAcknowledge": "Please mention dataset DOI and associated publication: Dumot C, et al. Neurofunctional and neuroimaging readouts for designing a preclinical stem-cell therapy trial in experimental stroke. Sci Rep. 2022;12(1):4700. doi:10.1038/s41598-022-08713-z"
 }
