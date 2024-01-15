@@ -1,7 +1,7 @@
 This dataset contains MRI associated with the following publication:
 Dumot C, Po C, Capin L, Hubert V, Ong E, Chourrout M, Bolbos R, Amaz C, Auxenfans C, Canet-Soulas E, Rome C, Chauveau F, Wiart M. Neurofunctional and neuroimaging readouts for designing a preclinical stem-cell therapy trial in experimental stroke. Sci Rep. 2022;12(1):4700. doi:[10.1038/s41598-022-08713-z](https://doi.org/10.1038/s41598-022-08713-z)
 
-An interactive visualisation of this dataset is available: https://fabien-chauveau.quarto.pub/dti-readouts-for-designing-a-preclinical-stem-cell-therapy-trial-in-experimental-stroke/
+An interactive display of this dataset is available: https://fabien-chauveau.quarto.pub/dti-readouts-for-designing-a-preclinical-stem-cell-therapy-trial-in-experimental-stroke/
 
 Raw data:
 
